@@ -1,0 +1,22 @@
+EPH, YES, 1
+FCF, YES, 1
+ROCE, <5%, 0
+ROCE, 5%-10%, 1
+ROCE, 10%-15%, 2
+ROCE, 15%-20%, 3
+ROCE, >20%, 4
+IC, >10, 1
+IC, >10, 0.5
+MOATS, "3 or More Moats",4
+MOATS, "2 Moat",3
+MOATS, "1 Moat",2
+MOATS, "Weak Moat",1
+NPM, "<5%",-1
+NPM, "5%-10%",-0.5
+NPM, "10%-15%",1
+NPM, "15%-20%",2
+NPM, ">20%",3
+DIVIDENT, YES, 1
+GR, "RISK", -1
+R&D, "RISK", -1
+KP, "RISK", -1
